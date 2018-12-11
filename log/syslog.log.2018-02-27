@@ -1,0 +1,344 @@
+<2018-02-27 11:34:35:571> <INFO> <ManageAgent.java:49>: <Starting agent server>
+<2018-02-27 11:34:35:673> <INFO> <AgentListener.java:61>: <正在监听 192.168.56.1:7788>
+<2018-02-27 11:34:46:474> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:59605] 已连接.>
+<2018-02-27 11:34:46:474> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:59604] 已连接.>
+<2018-02-27 11:34:46:482> <INFO> <AgentHandler.java:664>: <释放连接>
+<2018-02-27 11:35:02:314> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:59618] 已连接.>
+<2018-02-27 11:35:02:325> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:59619] 已连接.>
+<2018-02-27 11:35:02:348> <INFO> <AgentHandler.java:884>: <客户端 [192.168.56.1:59619] 正在上传 2个文件>
+<2018-02-27 11:35:02:387> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk 文件大小: 0 B>
+<2018-02-27 11:35:02:404> <INFO> <WebLogic.java:222>: <同步文件到集群服务: server7101>
+<2018-02-27 11:35:02:404> <INFO> <WebLogic.java:222>: <同步文件到集群服务: server7102>
+<2018-02-27 11:35:02:409> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\网络编程\JDK AIP说明文档.lnk 文件大小: 0 B>
+<2018-02-27 11:35:02:421> <INFO> <WebLogic.java:222>: <同步文件到集群服务: server7101>
+<2018-02-27 11:35:02:422> <INFO> <WebLogic.java:222>: <同步文件到集群服务: server7102>
+<2018-02-27 11:35:02:422> <INFO> <AgentHandler.java:1059>: <<全部接收完毕，共  2 个文件.>>
+<2018-02-27 11:35:54:208> <INFO> <ManageAgent.java:49>: <Starting agent server>
+<2018-02-27 11:35:54:275> <INFO> <AgentListener.java:61>: <正在监听 192.168.56.1:7788>
+<2018-02-27 11:35:56:727> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:59652] 已连接.>
+<2018-02-27 11:35:56:734> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:59653] 已连接.>
+<2018-02-27 11:35:56:760> <INFO> <AgentHandler.java:884>: <客户端 [192.168.56.1:59653] 正在上传 2个文件>
+<2018-02-27 11:35:56:761> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk 文件大小: 925 B>
+<2018-02-27 11:35:56:770> <INFO> <WebLogic.java:214>: <开始同步文件到集群服务.>
+<2018-02-27 11:35:56:771> <INFO> <WebLogic.java:223>: <同步文件到集群服务: server7101>
+<2018-02-27 11:35:56:771> <INFO> <WebLogic.java:223>: <同步文件到集群服务: server7102>
+<2018-02-27 11:35:56:775> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\网络编程\JDK AIP说明文档.lnk 文件大小: 931 B>
+<2018-02-27 11:35:56:781> <INFO> <WebLogic.java:214>: <开始同步文件到集群服务.>
+<2018-02-27 11:35:56:781> <INFO> <WebLogic.java:223>: <同步文件到集群服务: server7101>
+<2018-02-27 11:35:56:781> <INFO> <WebLogic.java:223>: <同步文件到集群服务: server7102>
+<2018-02-27 11:35:56:782> <INFO> <AgentHandler.java:1059>: <<全部接收完毕，共  2 个文件.>>
+<2018-02-27 11:36:29:009> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:59672] 已连接.>
+<2018-02-27 11:36:29:010> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:59673] 已连接.>
+<2018-02-27 11:36:29:038> <INFO> <AgentHandler.java:884>: <客户端 [192.168.56.1:59673] 正在上传 2个文件>
+<2018-02-27 11:36:29:039> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk 文件大小: 925 B>
+<2018-02-27 11:36:29:045> <INFO> <WebLogic.java:214>: <开始同步文件到集群服务.>
+<2018-02-27 11:36:29:045> <INFO> <WebLogic.java:223>: <同步文件到集群服务: server7101>
+<2018-02-27 11:36:29:046> <INFO> <WebLogic.java:223>: <同步文件到集群服务: server7102>
+<2018-02-27 11:36:29:063> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\网络编程\JDK AIP说明文档.lnk 文件大小: 931 B>
+<2018-02-27 11:36:29:072> <INFO> <WebLogic.java:214>: <开始同步文件到集群服务.>
+<2018-02-27 11:36:29:072> <INFO> <WebLogic.java:223>: <同步文件到集群服务: server7101>
+<2018-02-27 11:36:29:072> <INFO> <WebLogic.java:223>: <同步文件到集群服务: server7102>
+<2018-02-27 11:36:29:073> <INFO> <AgentHandler.java:1059>: <<全部接收完毕，共  2 个文件.>>
+<2018-02-27 11:38:36:508> <INFO> <ManageAgent.java:49>: <Starting agent server>
+<2018-02-27 11:38:36:568> <INFO> <AgentListener.java:61>: <正在监听 192.168.56.1:7788>
+<2018-02-27 11:38:40:123> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:59753] 已连接.>
+<2018-02-27 11:38:40:124> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:59754] 已连接.>
+<2018-02-27 11:38:40:150> <INFO> <AgentHandler.java:884>: <客户端 [192.168.56.1:59754] 正在上传 2个文件>
+<2018-02-27 11:38:40:151> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk 文件大小: 925 B>
+<2018-02-27 11:38:40:159> <INFO> <WebLogic.java:218>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk>
+<2018-02-27 11:38:40:159> <INFO> <WebLogic.java:227>: <同步文件到集群服务: server7101>
+<2018-02-27 11:38:40:159> <INFO> <WebLogic.java:227>: <同步文件到集群服务: server7102>
+<2018-02-27 11:38:40:169> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\网络编程\JDK AIP说明文档.lnk 文件大小: 931 B>
+<2018-02-27 11:38:40:179> <INFO> <WebLogic.java:218>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JDK AIP说明文档.lnk>
+<2018-02-27 11:38:40:179> <INFO> <WebLogic.java:227>: <同步文件到集群服务: server7101>
+<2018-02-27 11:38:40:179> <INFO> <WebLogic.java:227>: <同步文件到集群服务: server7102>
+<2018-02-27 11:38:40:180> <INFO> <AgentHandler.java:1059>: <<全部接收完毕，共  2 个文件.>>
+<2018-02-27 11:40:16:201> <INFO> <ManageAgent.java:49>: <Starting agent server>
+<2018-02-27 11:40:16:260> <INFO> <AgentListener.java:61>: <正在监听 192.168.56.1:7788>
+<2018-02-27 11:40:18:221> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:59811] 已连接.>
+<2018-02-27 11:40:18:221> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:59812] 已连接.>
+<2018-02-27 11:40:18:236> <INFO> <AgentHandler.java:884>: <客户端 [192.168.56.1:59812] 正在上传 2个文件>
+<2018-02-27 11:40:18:237> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk 文件大小: 925 B>
+<2018-02-27 11:40:18:246> <INFO> <WebLogic.java:227>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk 到 D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7101\stage\web\web>
+<2018-02-27 11:40:18:247> <INFO> <WebLogic.java:227>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk 到 D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7102\stage\web\web>
+<2018-02-27 11:40:18:251> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\网络编程\JDK AIP说明文档.lnk 文件大小: 931 B>
+<2018-02-27 11:40:18:261> <INFO> <WebLogic.java:227>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JDK AIP说明文档.lnk 到 D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7101\stage\web\web>
+<2018-02-27 11:40:18:261> <INFO> <WebLogic.java:227>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JDK AIP说明文档.lnk 到 D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7102\stage\web\web>
+<2018-02-27 11:40:18:262> <INFO> <AgentHandler.java:1059>: <<全部接收完毕，共  2 个文件.>>
+<2018-02-27 11:40:36:128> <INFO> <ManageAgent.java:49>: <Starting agent server>
+<2018-02-27 11:40:36:192> <INFO> <AgentListener.java:61>: <正在监听 192.168.56.1:7788>
+<2018-02-27 11:40:39:769> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:59827] 已连接.>
+<2018-02-27 11:40:39:769> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:59828] 已连接.>
+<2018-02-27 11:40:39:782> <INFO> <AgentHandler.java:884>: <客户端 [192.168.56.1:59828] 正在上传 2个文件>
+<2018-02-27 11:40:39:783> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk 文件大小: 925 B>
+<2018-02-27 11:40:39:797> <INFO> <WebLogic.java:227>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7101\stage\web\web>
+<2018-02-27 11:40:39:798> <INFO> <WebLogic.java:227>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7102\stage\web\web>
+<2018-02-27 11:40:39:804> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\网络编程\JDK AIP说明文档.lnk 文件大小: 931 B>
+<2018-02-27 11:40:39:810> <INFO> <WebLogic.java:227>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JDK AIP说明文档.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7101\stage\web\web>
+<2018-02-27 11:40:39:811> <INFO> <WebLogic.java:227>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JDK AIP说明文档.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7102\stage\web\web>
+<2018-02-27 11:40:39:811> <INFO> <AgentHandler.java:1059>: <<全部接收完毕，共  2 个文件.>>
+<2018-02-27 14:47:12:059> <INFO> <ManageAgent.java:49>: <Starting agent server>
+<2018-02-27 14:47:12:157> <INFO> <AgentListener.java:61>: <正在监听 192.168.56.1:7788>
+<2018-02-27 14:47:31:388> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:63575] 已连接.>
+<2018-02-27 14:47:31:389> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:63576] 已连接.>
+<2018-02-27 14:47:31:461> <INFO> <AgentHandler.java:884>: <客户端 [192.168.56.1:63576] 正在上传 2个文件>
+<2018-02-27 14:47:31:462> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk 文件大小: 925 B>
+<2018-02-27 14:57:26:039> <INFO> <ManageAgent.java:49>: <Starting agent server>
+<2018-02-27 14:57:26:082> <INFO> <AgentListener.java:61>: <正在监听 192.168.56.1:7788>
+<2018-02-27 14:57:30:378> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:63722] 已连接.>
+<2018-02-27 14:57:30:379> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:63723] 已连接.>
+<2018-02-27 14:57:30:411> <INFO> <AgentHandler.java:884>: <客户端 [192.168.56.1:63723] 正在上传 2个文件>
+<2018-02-27 14:57:30:412> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk 文件大小: 925 B>
+<2018-02-27 14:57:30:436> <INFO> <WebLogic.java:226>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7101\stage\web\web>
+<2018-02-27 14:59:12:879> <INFO> <ManageAgent.java:49>: <Starting agent server>
+<2018-02-27 14:59:12:924> <INFO> <AgentListener.java:61>: <正在监听 192.168.56.1:7788>
+<2018-02-27 14:59:15:177> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:63745] 已连接.>
+<2018-02-27 14:59:15:178> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:63746] 已连接.>
+<2018-02-27 14:59:15:195> <INFO> <AgentHandler.java:884>: <客户端 [192.168.56.1:63746] 正在上传 2个文件>
+<2018-02-27 14:59:15:208> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk 文件大小: 925 B>
+<2018-02-27 14:59:15:238> <INFO> <WebLogic.java:226>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7101\stage\web\web>
+<2018-02-27 15:01:50:284> <INFO> <WebLogic.java:226>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7102\stage\web\web>
+<2018-02-27 15:21:07:069> <INFO> <ManageAgent.java:49>: <Starting agent server>
+<2018-02-27 15:21:07:141> <INFO> <AgentListener.java:61>: <正在监听 192.168.56.1:7788>
+<2018-02-27 15:21:13:650> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:64032] 已连接.>
+<2018-02-27 15:21:13:651> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:64033] 已连接.>
+<2018-02-27 15:21:13:671> <INFO> <AgentHandler.java:884>: <客户端 [192.168.56.1:64033] 正在上传 2个文件>
+<2018-02-27 15:21:13:672> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk 文件大小: 925 B>
+<2018-02-27 15:21:13:681> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7101\stage\web\web>
+<2018-02-27 15:22:12:698> <INFO> <ManageAgent.java:49>: <Starting agent server>
+<2018-02-27 15:22:12:767> <INFO> <AgentListener.java:61>: <正在监听 192.168.56.1:7788>
+<2018-02-27 15:22:14:979> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:64041] 已连接.>
+<2018-02-27 15:22:14:979> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:64042] 已连接.>
+<2018-02-27 15:22:15:004> <INFO> <AgentHandler.java:884>: <客户端 [192.168.56.1:64042] 正在上传 2个文件>
+<2018-02-27 15:22:15:005> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk 文件大小: 925 B>
+<2018-02-27 15:22:15:013> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7101\stage\web\web>
+<2018-02-27 15:22:15:072> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7102\stage\web\web>
+<2018-02-27 15:22:15:146> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\网络编程\JDK AIP说明文档.lnk 文件大小: 931 B>
+<2018-02-27 15:22:15:164> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JDK AIP说明文档.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7101\stage\web\web>
+<2018-02-27 15:22:15:215> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JDK AIP说明文档.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7102\stage\web\web>
+<2018-02-27 15:22:15:272> <INFO> <AgentHandler.java:1059>: <<全部接收完毕，共  2 个文件.>>
+<2018-02-27 15:23:34:319> <INFO> <ManageAgent.java:49>: <Starting agent server>
+<2018-02-27 15:23:34:387> <INFO> <AgentListener.java:61>: <正在监听 192.168.56.1:7788>
+<2018-02-27 15:23:41:848> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:64058] 已连接.>
+<2018-02-27 15:23:41:848> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:64059] 已连接.>
+<2018-02-27 15:23:41:898> <INFO> <AgentHandler.java:884>: <客户端 [192.168.56.1:64059] 正在上传 2个文件>
+<2018-02-27 15:23:41:900> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk 文件大小: 925 B>
+<2018-02-27 15:23:41:916> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7101\stage\web\web>
+<2018-02-27 15:23:41:991> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7102\stage\web\web>
+<2018-02-27 15:24:55:701> <INFO> <ManageAgent.java:49>: <Starting agent server>
+<2018-02-27 15:24:55:766> <INFO> <AgentListener.java:61>: <正在监听 192.168.56.1:7788>
+<2018-02-27 15:24:58:601> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:64069] 已连接.>
+<2018-02-27 15:24:58:613> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:64070] 已连接.>
+<2018-02-27 15:24:58:627> <INFO> <AgentHandler.java:884>: <客户端 [192.168.56.1:64070] 正在上传 2个文件>
+<2018-02-27 15:24:58:628> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk 文件大小: 925 B>
+<2018-02-27 15:24:58:639> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7101\stage\web\web>
+<2018-02-27 15:24:58:702> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7102\stage\web\web>
+<2018-02-27 15:24:58:769> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\网络编程\JDK AIP说明文档.lnk 文件大小: 931 B>
+<2018-02-27 15:24:58:774> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JDK AIP说明文档.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7101\stage\web\web>
+<2018-02-27 15:24:58:829> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JDK AIP说明文档.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7102\stage\web\web>
+<2018-02-27 15:24:58:888> <INFO> <AgentHandler.java:1059>: <<全部接收完毕，共  2 个文件.>>
+<2018-02-27 15:34:35:768> <INFO> <ManageAgent.java:49>: <Starting agent server>
+<2018-02-27 15:34:35:831> <INFO> <AgentListener.java:61>: <正在监听 192.168.56.1:7788>
+<2018-02-27 15:34:44:772> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:64397] 已连接.>
+<2018-02-27 15:34:44:773> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:64398] 已连接.>
+<2018-02-27 15:34:44:806> <INFO> <AgentHandler.java:884>: <客户端 [192.168.56.1:64398] 正在上传 2个文件>
+<2018-02-27 15:34:44:808> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk 文件大小: 925 B>
+<2018-02-27 15:34:44:818> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7101\stage\web\web>
+<2018-02-27 15:34:59:857> <INFO> <ManageAgent.java:49>: <Starting agent server>
+<2018-02-27 15:34:59:905> <INFO> <AgentListener.java:61>: <正在监听 192.168.56.1:7788>
+<2018-02-27 15:35:02:910> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:64405] 已连接.>
+<2018-02-27 15:35:02:910> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:64404] 已连接.>
+<2018-02-27 15:35:02:936> <INFO> <AgentHandler.java:884>: <客户端 [192.168.56.1:64405] 正在上传 2个文件>
+<2018-02-27 15:35:02:937> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk 文件大小: 925 B>
+<2018-02-27 15:35:02:968> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7101\stage\web\web>
+<2018-02-27 15:38:06:322> <INFO> <ManageAgent.java:49>: <Starting agent server>
+<2018-02-27 15:38:06:380> <INFO> <AgentListener.java:61>: <正在监听 192.168.56.1:7788>
+<2018-02-27 15:38:11:065> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:64434] 已连接.>
+<2018-02-27 15:38:11:066> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:64435] 已连接.>
+<2018-02-27 15:38:11:083> <INFO> <AgentHandler.java:884>: <客户端 [192.168.56.1:64435] 正在上传 2个文件>
+<2018-02-27 15:38:11:084> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk 文件大小: 925 B>
+<2018-02-27 15:38:11:093> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7101\stage\web\web>
+<2018-02-27 15:38:11:155> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7102\stage\web\web>
+<2018-02-27 15:38:11:267> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\网络编程\JDK AIP说明文档.lnk 文件大小: 931 B>
+<2018-02-27 15:38:11:272> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JDK AIP说明文档.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7101\stage\web\web>
+<2018-02-27 15:38:11:327> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JDK AIP说明文档.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7102\stage\web\web>
+<2018-02-27 15:38:11:385> <INFO> <AgentHandler.java:1059>: <<全部接收完毕，共  2 个文件.>>
+<2018-02-27 15:51:24:602> <INFO> <ManageAgent.java:49>: <Starting agent server>
+<2018-02-27 15:51:24:693> <INFO> <AgentListener.java:61>: <正在监听 192.168.56.1:7788>
+<2018-02-27 15:51:28:166> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:64570] 已连接.>
+<2018-02-27 15:51:28:166> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:64571] 已连接.>
+<2018-02-27 15:51:28:204> <INFO> <AgentHandler.java:884>: <客户端 [192.168.56.1:64571] 正在上传 2个文件>
+<2018-02-27 15:51:28:205> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk 文件大小: 925 B>
+<2018-02-27 15:51:28:223> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7101\stage\web\web>
+<2018-02-27 15:51:28:343> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7102\stage\web\web>
+<2018-02-27 15:51:28:428> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\网络编程\JDK AIP说明文档.lnk 文件大小: 931 B>
+<2018-02-27 15:51:28:432> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JDK AIP说明文档.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7101\stage\web\web>
+<2018-02-27 15:51:28:486> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JDK AIP说明文档.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7102\stage\web\web>
+<2018-02-27 15:51:28:542> <INFO> <AgentHandler.java:1059>: <<全部接收完毕，共  2 个文件.>>
+<2018-02-27 15:54:30:057> <INFO> <ManageAgent.java:49>: <Starting agent server>
+<2018-02-27 15:54:30:124> <INFO> <AgentListener.java:61>: <正在监听 192.168.56.1:7788>
+<2018-02-27 15:57:25:663> <INFO> <ManageAgent.java:49>: <Starting agent server>
+<2018-02-27 15:57:25:732> <INFO> <AgentListener.java:61>: <正在监听 192.168.56.1:7788>
+<2018-02-27 15:57:28:270> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:64641] 已连接.>
+<2018-02-27 15:57:28:271> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:64642] 已连接.>
+<2018-02-27 15:57:28:293> <INFO> <AgentHandler.java:884>: <客户端 [192.168.56.1:64642] 正在上传 2个文件>
+<2018-02-27 15:57:28:295> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk 文件大小: 925 B>
+<2018-02-27 15:57:28:304> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7101\stage\web\web>
+<2018-02-27 15:57:28:409> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7102\stage\web\web>
+<2018-02-27 15:57:28:485> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\网络编程\JDK AIP说明文档.lnk 文件大小: 931 B>
+<2018-02-27 15:57:28:489> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JDK AIP说明文档.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7101\stage\web\web>
+<2018-02-27 15:57:28:546> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JDK AIP说明文档.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7102\stage\web\web>
+<2018-02-27 15:57:28:604> <INFO> <AgentHandler.java:1059>: <<全部接收完毕，共  2 个文件.>>
+<2018-02-27 15:58:19:578> <INFO> <ManageAgent.java:49>: <Starting agent server>
+<2018-02-27 15:58:19:642> <INFO> <AgentListener.java:61>: <正在监听 192.168.56.1:7788>
+<2018-02-27 15:58:22:432> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:64652] 已连接.>
+<2018-02-27 15:58:22:434> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:64653] 已连接.>
+<2018-02-27 15:58:22:450> <INFO> <AgentHandler.java:884>: <客户端 [192.168.56.1:64653] 正在上传 2个文件>
+<2018-02-27 15:58:22:451> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk 文件大小: 925 B>
+<2018-02-27 15:58:22:463> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7101\stage\web\web>
+<2018-02-27 15:58:22:531> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7102\stage\web\web>
+<2018-02-27 15:58:22:603> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\网络编程\JDK AIP说明文档.lnk 文件大小: 931 B>
+<2018-02-27 15:58:22:608> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JDK AIP说明文档.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7101\stage\web\web>
+<2018-02-27 15:58:22:674> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JDK AIP说明文档.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7102\stage\web\web>
+<2018-02-27 15:58:22:734> <INFO> <AgentHandler.java:1059>: <<全部接收完毕，共  2 个文件.>>
+<2018-02-27 16:07:55:911> <INFO> <ManageAgent.java:49>: <Starting agent server>
+<2018-02-27 16:07:56:002> <INFO> <AgentListener.java:61>: <正在监听 192.168.56.1:7788>
+<2018-02-27 16:07:58:953> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:64790] 已连接.>
+<2018-02-27 16:07:58:956> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:64791] 已连接.>
+<2018-02-27 16:07:59:006> <INFO> <AgentHandler.java:884>: <客户端 [192.168.56.1:64791] 正在上传 2个文件>
+<2018-02-27 16:07:59:007> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk 文件大小: 925 B>
+<2018-02-27 16:07:59:074> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7101\stage\web\web>
+<2018-02-27 16:07:59:185> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7102\stage\web\web>
+<2018-02-27 16:07:59:250> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\网络编程\JDK AIP说明文档.lnk 文件大小: 931 B>
+<2018-02-27 16:07:59:255> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JDK AIP说明文档.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7101\stage\web\web>
+<2018-02-27 16:07:59:314> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JDK AIP说明文档.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7102\stage\web\web>
+<2018-02-27 16:07:59:371> <INFO> <AgentHandler.java:1058>: <<全部接收完毕，共  2 个文件.>>
+<2018-02-27 16:09:13:088> <INFO> <ManageAgent.java:49>: <Starting agent server>
+<2018-02-27 16:09:13:149> <INFO> <AgentListener.java:61>: <正在监听 192.168.56.1:7788>
+<2018-02-27 16:09:15:418> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:64807] 已连接.>
+<2018-02-27 16:09:15:420> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:64808] 已连接.>
+<2018-02-27 16:09:15:445> <INFO> <AgentHandler.java:884>: <客户端 [192.168.56.1:64808] 正在上传 2个文件>
+<2018-02-27 16:09:15:446> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk 文件大小: 925 B>
+<2018-02-27 16:09:15:456> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7101\stage\web\web>
+<2018-02-27 16:09:15:522> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JAVA网络编程 第4版.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7102\stage\web\web>
+<2018-02-27 16:09:15:591> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\网络编程\JDK AIP说明文档.lnk 文件大小: 931 B>
+<2018-02-27 16:09:15:596> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JDK AIP说明文档.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7101\stage\web\web>
+<2018-02-27 16:09:15:653> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\网络编程\JDK AIP说明文档.lnk -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7102\stage\web\web>
+<2018-02-27 16:09:15:713> <INFO> <AgentHandler.java:1057>: <<全部接收完毕，共  2 个文件.>>
+<2018-02-27 16:10:37:195> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:64819] 已连接.>
+<2018-02-27 16:10:37:218> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:64820] 已连接.>
+<2018-02-27 16:10:37:238> <INFO> <AgentHandler.java:884>: <客户端 [192.168.56.1:64820] 正在上传 2个文件>
+<2018-02-27 16:10:37:239> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_yshd_b.sql 文件大小: 0 B>
+<2018-02-27 16:10:37:391> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_yshd_b.sql -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7101\stage\web\web>
+<2018-02-27 16:10:37:464> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_yshd_b.sql -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7102\stage\web\web>
+<2018-02-27 16:10:37:532> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_zhgl_b.sql 文件大小: 0 B>
+<2018-02-27 16:10:37:551> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_zhgl_b.sql -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7101\stage\web\web>
+<2018-02-27 16:10:37:610> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_zhgl_b.sql -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7102\stage\web\web>
+<2018-02-27 16:10:37:668> <INFO> <AgentHandler.java:1057>: <<全部接收完毕，共  2 个文件.>>
+<2018-02-27 16:11:50:351> <INFO> <ManageAgent.java:49>: <Starting agent server>
+<2018-02-27 16:11:50:417> <INFO> <AgentListener.java:61>: <正在监听 192.168.56.1:7788>
+<2018-02-27 16:11:52:727> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:64835] 已连接.>
+<2018-02-27 16:11:52:727> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:64836] 已连接.>
+<2018-02-27 16:11:52:750> <INFO> <AgentHandler.java:884>: <客户端 [192.168.56.1:64836] 正在上传 2个文件>
+<2018-02-27 16:11:52:751> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_yshd_b.sql 文件大小: 495 KB>
+<2018-02-27 16:11:52:836> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_yshd_b.sql -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7101\stage\web\web>
+<2018-02-27 16:11:52:910> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_yshd_b.sql -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7102\stage\web\web>
+<2018-02-27 16:11:52:974> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_zhgl_b.sql 文件大小: 305 KB>
+<2018-02-27 16:11:52:988> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_zhgl_b.sql -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7101\stage\web\web>
+<2018-02-27 16:11:53:041> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_zhgl_b.sql -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7102\stage\web\web>
+<2018-02-27 16:11:53:094> <INFO> <AgentHandler.java:1057>: <<全部接收完毕，共  2 个文件.>>
+<2018-02-27 16:12:42:927> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:64913] 已连接.>
+<2018-02-27 16:12:42:927> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:64914] 已连接.>
+<2018-02-27 16:12:42:934> <INFO> <AgentHandler.java:805>: <客户端 [192.168.56.1:64914]对应用进行了停止操作>
+<2018-02-27 16:12:42:966> <INFO> <WebLogic.java:443>: <停止服务server7101>
+<2018-02-27 16:12:44:550> <INFO> <WebLogic.java:443>: <停止服务server7102>
+<2018-02-27 16:12:50:446> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:64917] 已连接.>
+<2018-02-27 16:12:50:446> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:64918] 已连接.>
+<2018-02-27 16:12:50:454> <INFO> <AgentHandler.java:820>: <客户端 [192.168.56.1:64918]对应用进行了备份操作>
+<2018-02-27 16:14:32:125> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:64947] 已连接.>
+<2018-02-27 16:14:32:128> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:64948] 已连接.>
+<2018-02-27 16:14:32:140> <INFO> <AgentHandler.java:884>: <客户端 [192.168.56.1:64948] 正在上传 2个文件>
+<2018-02-27 16:14:32:140> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_yshd_b.sql 文件大小: 495 KB>
+<2018-02-27 16:14:32:214> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_yshd_b.sql -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7101\stage\web\web>
+<2018-02-27 16:14:32:273> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_yshd_b.sql -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7102\stage\web\web>
+<2018-02-27 16:14:32:341> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_zhgl_b.sql 文件大小: 305 KB>
+<2018-02-27 16:14:32:360> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_zhgl_b.sql -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7101\stage\web\web>
+<2018-02-27 16:14:32:423> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_zhgl_b.sql -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7102\stage\web\web>
+<2018-02-27 16:14:32:487> <INFO> <AgentHandler.java:1057>: <<全部接收完毕，共  2 个文件.>>
+<2018-02-27 16:15:29:437> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:64957] 已连接.>
+<2018-02-27 16:15:29:440> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:64958] 已连接.>
+<2018-02-27 16:15:29:447> <INFO> <AgentHandler.java:791>: <客户端 [192.168.56.1:64958]对应用进行了启动操作>
+<2018-02-27 16:17:29:998> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:65036] 已连接.>
+<2018-02-27 16:17:29:999> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:65037] 已连接.>
+<2018-02-27 16:17:30:017> <INFO> <AgentHandler.java:884>: <客户端 [192.168.56.1:65037] 正在上传 2个文件>
+<2018-02-27 16:17:30:021> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_yshd_b.sql 文件大小: 495 KB>
+<2018-02-27 16:17:30:126> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_yshd_b.sql -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7101\stage\web\web>
+<2018-02-27 16:17:30:252> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_yshd_b.sql -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7102\stage\web\web>
+<2018-02-27 16:17:30:337> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_zhgl_b.sql 文件大小: 305 KB>
+<2018-02-27 16:17:30:356> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_zhgl_b.sql -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7101\stage\web\web>
+<2018-02-27 16:17:30:438> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_zhgl_b.sql -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7102\stage\web\web>
+<2018-02-27 16:17:30:508> <INFO> <AgentHandler.java:1057>: <<全部接收完毕，共  2 个文件.>>
+<2018-02-27 16:20:52:262> <INFO> <ManageAgent.java:49>: <Starting agent server>
+<2018-02-27 16:20:52:451> <INFO> <AgentListener.java:61>: <正在监听 192.168.56.1:7788>
+<2018-02-27 16:21:07:609> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:65073] 已连接.>
+<2018-02-27 16:21:07:610> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:65074] 已连接.>
+<2018-02-27 16:21:07:685> <INFO> <AgentHandler.java:805>: <客户端 [192.168.56.1:65074]对应用进行了停止操作>
+<2018-02-27 16:21:07:757> <INFO> <WebLogic.java:443>: <停止服务server7101>
+<2018-02-27 16:21:09:271> <INFO> <WebLogic.java:443>: <停止服务server7102>
+<2018-02-27 16:21:19:551> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:65077] 已连接.>
+<2018-02-27 16:21:19:545> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:65076] 已连接.>
+<2018-02-27 16:21:19:555> <INFO> <AgentHandler.java:884>: <客户端 [192.168.56.1:65077] 正在上传 2个文件>
+<2018-02-27 16:21:19:556> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_yshd_b.sql 文件大小: 495 KB>
+<2018-02-27 16:21:19:647> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_yshd_b.sql -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7101\stage\web\web>
+<2018-02-27 16:21:19:709> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_yshd_b.sql -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7102\stage\web\web>
+<2018-02-27 16:21:19:774> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_zhgl_b.sql 文件大小: 305 KB>
+<2018-02-27 16:21:19:787> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_zhgl_b.sql -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7101\stage\web\web>
+<2018-02-27 16:21:19:844> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_zhgl_b.sql -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7102\stage\web\web>
+<2018-02-27 16:21:19:906> <INFO> <AgentHandler.java:1057>: <<全部接收完毕，共  2 个文件.>>
+<2018-02-27 16:22:00:596> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:65081] 已连接.>
+<2018-02-27 16:22:00:597> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:65082] 已连接.>
+<2018-02-27 16:22:00:607> <INFO> <AgentHandler.java:884>: <客户端 [192.168.56.1:65082] 正在上传 2个文件>
+<2018-02-27 16:22:00:608> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_yshd_b.sql 文件大小: 495 KB>
+<2018-02-27 16:22:00:685> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_yshd_b.sql -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7101\stage\web\web>
+<2018-02-27 16:22:00:746> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_yshd_b.sql -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7102\stage\web\web>
+<2018-02-27 16:22:00:819> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_zhgl_b.sql 文件大小: 305 KB>
+<2018-02-27 16:22:00:844> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_zhgl_b.sql -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7101\stage\web\web>
+<2018-02-27 16:22:00:902> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_zhgl_b.sql -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7102\stage\web\web>
+<2018-02-27 16:22:00:961> <INFO> <AgentHandler.java:1057>: <<全部接收完毕，共  2 个文件.>>
+<2018-02-27 16:23:09:216> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:65092] 已连接.>
+<2018-02-27 16:23:09:229> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:65093] 已连接.>
+<2018-02-27 16:23:09:243> <INFO> <AgentHandler.java:884>: <客户端 [192.168.56.1:65093] 正在上传 2个文件>
+<2018-02-27 16:23:09:243> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_yshd_b.sql 文件大小: 495 KB>
+<2018-02-27 16:23:09:321> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_yshd_b.sql -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7101\stage\web\web>
+<2018-02-27 16:23:09:378> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_yshd_b.sql -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7102\stage\web\web>
+<2018-02-27 16:23:09:452> <INFO> <AgentHandler.java:990>: <正在接收文件 D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_zhgl_b.sql 文件大小: 305 KB>
+<2018-02-27 16:23:09:464> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_zhgl_b.sql -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7101\stage\web\web>
+<2018-02-27 16:23:09:526> <INFO> <WebLogic.java:230>: <开始同步文件: D:\Oracle\Middleware\user_projects\web\下班执行脚本\pkg_zhgl_b.sql -> D:\Oracle\Middleware\user_projects\domains\admindomain7001\servers\server7102\stage\web\web>
+<2018-02-27 16:23:09:588> <INFO> <AgentHandler.java:1057>: <<全部接收完毕，共  2 个文件.>>
+<2018-02-27 16:23:53:572> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:65101] 已连接.>
+<2018-02-27 16:23:53:573> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:65102] 已连接.>
+<2018-02-27 16:23:53:604> <INFO> <AgentHandler.java:791>: <客户端 [192.168.56.1:65102]对应用进行了启动操作>
+<2018-02-27 16:24:09:500> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:65120] 已连接.>
+<2018-02-27 16:24:09:501> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:65121] 已连接.>
+<2018-02-27 16:24:09:506> <INFO> <AgentHandler.java:805>: <客户端 [192.168.56.1:65121]对应用进行了停止操作>
+<2018-02-27 16:24:09:512> <INFO> <WebLogic.java:443>: <停止服务server7101>
+<2018-02-27 16:24:09:915> <INFO> <Tool.java:388>: <Kill process 13288>
+<2018-02-27 16:24:11:263> <INFO> <WebLogic.java:443>: <停止服务server7102>
+<2018-02-27 16:24:11:614> <INFO> <Tool.java:388>: <Kill process 11932>
+<2018-02-27 16:24:13:057> <INFO> <Tool.java:388>: <Kill process 12508>
+<2018-02-27 16:24:13:198> <INFO> <Tool.java:388>: <Kill process 1808>
+<2018-02-27 16:24:30:447> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:65123] 已连接.>
+<2018-02-27 16:24:30:448> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:65124] 已连接.>
+<2018-02-27 16:24:30:457> <INFO> <AgentHandler.java:791>: <客户端 [192.168.56.1:65124]对应用进行了启动操作>
+<2018-02-27 16:24:32:090> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:65125] 已连接.>
+<2018-02-27 16:24:32:090> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:65126] 已连接.>
+<2018-02-27 16:24:32:107> <INFO> <AgentHandler.java:791>: <客户端 [192.168.56.1:65126]对应用进行了启动操作>
+<2018-02-27 16:26:39:633> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:65241] 已连接.>
+<2018-02-27 16:26:39:634> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:65242] 已连接.>
+<2018-02-27 16:26:39:642> <INFO> <AgentHandler.java:805>: <客户端 [192.168.56.1:65242]对应用进行了停止操作>
+<2018-02-27 16:26:39:645> <INFO> <WebLogic.java:443>: <停止服务server7101>
+<2018-02-27 16:26:39:885> <INFO> <Tool.java:388>: <Kill process 12888>
+<2018-02-27 16:26:40:048> <INFO> <Tool.java:388>: <Kill process 9040>
+<2018-02-27 16:26:41:223> <INFO> <WebLogic.java:443>: <停止服务server7102>
+<2018-02-27 16:26:42:732> <INFO> <Tool.java:388>: <Kill process 10892>
+<2018-02-27 16:26:42:856> <INFO> <Tool.java:388>: <Kill process 12308>

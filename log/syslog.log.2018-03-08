@@ -1,0 +1,13 @@
+<2018-03-08 11:17:35:741> <INFO> <ManageAgent.java:56>: <Please choose args "start" or "stop">
+<2018-03-08 11:17:43:317> <INFO> <ManageAgent.java:56>: <Please choose args "start" or "stop">
+<2018-03-08 11:17:50:204> <INFO> <ManageAgent.java:49>: <Starting agent server>
+<2018-03-08 11:17:50:311> <INFO> <AgentListener.java:61>: <正在监听 192.168.56.1:7788>
+<2018-03-08 11:23:58:629> <INFO> <ManageAgent.java:49>: <Starting agent server>
+<2018-03-08 11:23:58:692> <INFO> <AgentListener.java:61>: <正在监听 192.168.56.1:7788>
+<2018-03-08 11:24:03:707> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:49464] 已连接.>
+<2018-03-08 11:24:03:724> <INFO> <AgentHandler.java:75>: <客户端 [192.168.56.1:49465] 已连接.>
+<2018-03-08 11:24:03:802> <INFO> <AgentHandler.java:743>: <释放连接>
+<2018-03-08 12:01:47:429> <INFO> <ManageAgent.java:49>: <Starting agent server>
+<2018-03-08 12:01:47:494> <INFO> <AgentListener.java:61>: <正在监听 192.168.56.1:7788>
+<2018-03-08 14:28:37:769> <INFO> <ManageAgent.java:49>: <Starting agent server>
+<2018-03-08 14:28:37:896> <INFO> <AgentListener.java:61>: <正在监听 192.168.56.1:7788>

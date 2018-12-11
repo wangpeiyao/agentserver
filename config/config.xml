@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?><root>
+<agent>
+	<!-- 服务器地址，设置为[127.0.0.1]或[localhost]时，由程序自动获取真实IP4地址 -->
+	<ip>127.0.0.1</ip>
+	<!-- 监听端口 -->
+	<port>7788</port>
+	<!-- 会话超时时间  单位：毫秒-->
+	<timeout>300000</timeout>
+	<!-- 线程池大小 -->
+	<thred-pool>30</thred-pool>
+	<!-- 编码方式 -->
+	<encoding>UTF-8</encoding>
+	<!--程序会优先会查找PATH环境变更，其次查找本配置文件WinRAR路径，	最后寻找默认安装目录C:\Program Files\WinRAR或C:\Program Files (x86)\WinRAR -->
+	<winrar></winrar>
+	<!-- 
+	设置允许删文件目录，为空或目录不存在，则不能删除服务器上的文件。多个目录请用";"隔开，删除文件时请慎重。  
+	注：请不要手工换行，首尾不要存在空格字符
+	-->
+	<permission-delete-path>D:\Oracle\niddl eware\user_projects</permission-delete-path>
+</agent>
+</root>

@@ -1,0 +1,22 @@
+
+1、端口设置，请在配置文件config/config.xml中的port节点设置Agent的监听端口，默认端口为7788。如果服务器没有开放该端口，请先对外开放，否则发布客户端无法通过端口连接到Agent。
+
+
+2、启动Agent服务
+
+（2.1）Windows运行方法一(推荐)：
+第一次先：运行installSvc.bat将应用安装到Windows services，系统重启后将自动启动Agent服务。
+安装服务后，如果服务未启动可以运行“startSvc.bat”启动服务。
+
+注：安装服务后，请检查服务的属性“允许服务与桌面交互(W)”是否有勾选，否则不能正常使用。
+
+（2.2）Windows运行方法二：
+执行start.bat或start.exe文件。
+
+
+（2.3）Aix和Linux运行方法
+切换到start.sh所在目录，执行./start.sh文件。
+
+3、Agent访问密码
+密码默认为“sinobest”，请运行Agent服务后，通过客户端的功能菜单【服务端Agent-修改访问密码】进行修改。
+

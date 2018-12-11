@@ -1,0 +1,6 @@
+<2018-08-20 21:55:42:626> <INFO> <ManageAgent.java:49>: <Starting agent server>
+<2018-08-20 21:55:42:745> <INFO> <AgentListener.java:61>: <正在监听 192.168.56.1:7788>
+<2018-08-20 21:57:59:244> <INFO> <ManageAgent.java:49>: <Starting agent server>
+<2018-08-20 21:57:59:288> <INFO> <AgentListener.java:61>: <正在监听 127.0.0.22:7788>
+<2018-08-20 21:58:14:471> <INFO> <ManageAgent.java:49>: <Starting agent server>
+<2018-08-20 21:58:14:539> <INFO> <AgentListener.java:61>: <正在监听 192.168.56.1:7788>
